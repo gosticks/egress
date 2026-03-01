@@ -58,6 +58,7 @@ func (p *PipelineConfig) getStorageConfig(req egress.UploadRequest) (*StorageCon
 			sc.S3.MaxRetries = p.StorageConfig.S3.MaxRetries
 			sc.S3.MaxRetryDelay = p.StorageConfig.S3.MaxRetryDelay
 			sc.S3.MinRetryDelay = p.StorageConfig.S3.MinRetryDelay
+			sc.S3.DisableContentHashes = p.StorageConfig.S3.DisableContentHashes
 		}
 
 		if sc.S3.AssumeRoleArn == "" {
