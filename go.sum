@@ -210,6 +210,8 @@ github.com/googleapis/gax-go/v2 v2.14.2 h1:eBLnkZ9635krYIPD+ag1USrOAI0Nr0QYF3+/3
 github.com/googleapis/gax-go/v2 v2.14.2/go.mod h1:ON64QhlJkhVtSqp4v1uaK92VyZ2gmvDQsweuyLV+8+w=
 github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 h1:JeSE6pjso5THxAzdVpqr6/geYxZytqFMBCOtn/ujyeo=
 github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674/go.mod h1:r4w70xmWCQKmi1ONH4KIaBptdivuRPyosB9RmPlGEwA=
+github.com/gosticks/storage v0.0.0-20260301164620-0ad0b2e17767 h1:akcUtbWoHt+MX+W8R7E0zlr2G45V/qgg5KqY1KMyme4=
+github.com/gosticks/storage v0.0.0-20260301164620-0ad0b2e17767/go.mod h1:m+EDdiNremMNJbggvfj5mY8w7nbzVGtZka5Jhj4pg0g=
 github.com/hashicorp/go-cleanhttp v0.5.2 h1:035FKYIWjmULyFRBKPs8TBQoi0x6d9G4xc9neXJWAZQ=
 github.com/hashicorp/go-cleanhttp v0.5.2/go.mod h1:kO/YDlP8L1346E6Sodw+PrpBSV4/SoxCXGY6BqNFT48=
 github.com/hashicorp/go-hclog v1.6.3 h1:Qr2kF+eVWjTiYmU7Y31tYlP1h0q/X3Nl3tPGdaB11/k=
@@ -257,8 +259,6 @@ github.com/livekit/psrpc v0.7.1 h1:ms37az0QTD3UXIWuUC5D/SkmKOlRMVRsI261eBWu/Vw=
 github.com/livekit/psrpc v0.7.1/go.mod h1:bZ4iHFQptTkbPnB0LasvRNu/OBYXEu1NA6O5BMFo9kk=
 github.com/livekit/server-sdk-go/v2 v2.13.4-0.20260205010318-ca8b66238d43 h1:UsVVXRlO5awj4s38Q+S4jTqeYEOYs8N5elWfcmz+N6M=
 github.com/livekit/server-sdk-go/v2 v2.13.4-0.20260205010318-ca8b66238d43/go.mod h1:+kOsWtRh5dKcrCwFuRTtzJenpJyTfZL7nKnJBHZafC0=
-github.com/livekit/storage v0.0.0-20251113154014-aa1f4d0ce057 h1:6XTEL0cSGkDPWYl1nAS/3cNOK1QoIo11C/O4pc4vPMg=
-github.com/livekit/storage v0.0.0-20251113154014-aa1f4d0ce057/go.mod h1:m+EDdiNremMNJbggvfj5mY8w7nbzVGtZka5Jhj4pg0g=
 github.com/mackerelio/go-osstat v0.2.5 h1:+MqTbZUhoIt4m8qzkVoXUJg1EuifwlAJSk4Yl2GXh+o=
 github.com/mackerelio/go-osstat v0.2.5/go.mod h1:atxwWF+POUZcdtR1wnsUcQxTytoHG4uhl2AKKzrOajY=
 github.com/magefile/mage v1.15.0 h1:BvGheCMAsG3bWUDbZ8AyXXpCNwU9u5CB6sM+HNb9HYg=

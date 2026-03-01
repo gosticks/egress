@@ -2,6 +2,9 @@ module github.com/livekit/egress
 
 replace github.com/go-gst/go-gst => github.com/livekit/gst-go v0.0.0-20250701011214-e7f61abd14cb
 
+// Use forked storage library with OpenStack Swift S3 compatibility (DisableContentHashes option)
+replace github.com/livekit/storage => github.com/gosticks/storage v0.0.0-20260301164620-0ad0b2e17767
+
 go 1.24.4
 
 toolchain go1.24.5
